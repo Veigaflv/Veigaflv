@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on a Game Dev project
 - 💬 Ask me about Cabo Verde 
 - 📫 How to reach me: veigaflv@gmail.com
-- ⚡ Fun fact: I used to hate programing because i couldn't understand it, but also love it because of the things u can do with it
+- ⚡ Fun fact: I hated programming before I understood it, and loved it the moment I saw everything it could build
